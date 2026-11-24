@@ -1,0 +1,51 @@
+# WordPress sensible / local
+wp-config.php
+wp-config-local.php
+.htaccess.local
+
+# Credenciales y entorno
+.env
+.env.*
+*.pem
+*.key
+
+# Backups y dumps de base de datos
+*.sql
+*.sql.gz
+*.sql.zip
+*.tar.gz
+*.bak
+*.backup
+*.old
+*-backup*
+*.wpress
+
+# Caché y temporales
+wp-content/cache/
+wp-content/advanced-cache.php
+wp-content/object-cache.php
+wp-content/upgrade/
+wp-content/backup*/
+wp-content/backups/
+wp-content/uploads/cache/
+wp-content/uploads/wc-logs/
+*.log
+*.tmp
+*.temp
+.cache/
+
+# Dependencias y sistema
+node_modules/
+vendor/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos privados/locales (revisar antes de publicar)
+codigo de yape.jpeg
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*.swo

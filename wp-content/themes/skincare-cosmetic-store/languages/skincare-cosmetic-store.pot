@@ -1,0 +1,2107 @@
+# Copyright (C) 2026 revolutionwp
+# This file is distributed under the GNU General Prefer License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Skincare Cosmetic Store 1.4.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/skincare-cosmetic-store\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-10-17T10:11:01+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: skincare-cosmetic-store\n"
+
+#. Theme Name of the theme
+#: style.css
+#: patterns/footer-default.php:104
+msgid "Skincare Cosmetic Store"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.revolutionwp.com/products/skincare-cosmetic-store"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The Skincare Cosmetic Store theme is expertly crafted for establishing visually appealing and well-structured online shops centered on beauty and personal care products, including hair, spa, and wellness items. It boasts a clean layout, intuitive navigation, and responsive design to guarantee a smooth browsing experience across desktops, tablets, and smartphones. With customizable sections, users can effectively showcase product categories, highlight featured items, and present clear descriptions. This theme includes essential eCommerce features like product grids, search filters, secure checkout compatibility, and an SEO-friendly structure that enhance efficient store management and boost online visibility. It's perfect for skincare brands, cosmetic shops, dermatology clinics, hair salons, barbershops, and wellness entrepreneurs, making it suitable for both startups and established businesses seeking a professional digital presence. By supporting high-resolution images, fast loading speeds, and modern design standards, the Skincare Cosmetic Store delivers a practical and user-focused solution for building a well-organized and accessible beauty shop online."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "revolutionwp"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.revolutionwp.com/"
+msgstr ""
+
+#: functions.php:144
+msgid "Dismiss"
+msgstr ""
+
+#. translators: %s!: Theme Name.
+#: functions.php:155
+msgid "Welcome to the free theme: %s!"
+msgstr ""
+
+#: functions.php:159
+msgid "Get started by exploring the features of your new theme. Customize your design, add your content, and create a site that fits your vision."
+msgstr ""
+
+#: functions.php:164
+msgid "Theme Screenshot"
+msgstr ""
+
+#: functions.php:170
+#: getstarted/skincare_cosmetic_store_about_page.php:264
+msgid "Your Demo Is Ready"
+msgstr ""
+
+#: functions.php:171
+msgid "The recommended plugins are active and the demo products have been imported. Visit your site to see it in action."
+msgstr ""
+
+#: functions.php:173
+msgid "Quick Start: Import Demo"
+msgstr ""
+
+#: functions.php:174
+msgid "Install the recommended plugins and import the demo products in one click. Get a complete site in minutes."
+msgstr ""
+
+#: functions.php:181
+msgid "Customize Your Theme"
+msgstr ""
+
+#: functions.php:182
+msgid "Want to make it truly yours? Explore the Getting Started Guide to personalize your site to suit your needs."
+msgstr ""
+
+#: functions.php:183
+msgid "View Getting Started Guide"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:55
+msgid "Copied!"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:56
+#: getstarted/skincare_cosmetic_store_about_page.php:370
+msgid "Copy Code"
+msgstr ""
+
+#. translators: 1: Theme Name.
+#: getstarted/skincare_cosmetic_store_about_page.php:69
+#: getstarted/skincare_cosmetic_store_about_page.php:71
+msgid "About %1$s"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:87
+msgid "Getting Started"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:91
+msgid "Free VS Pro"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:95
+#: getstarted/skincare_cosmetic_store_about_page.php:192
+#: inc/section-pro/customizer.php:97
+msgid "Theme Bundle"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:99
+msgid "Changelog"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:103
+#: patterns/footer-default.php:52
+msgid "Support"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:107
+#: getstarted/skincare_cosmetic_store_about_page.php:485
+msgid "Rate & Review"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:126
+msgid "Beautiful & Modern Design"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:127
+msgid "100% Responsive & Mobile Ready"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:128
+msgid "Easy to Customize with WordPress"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:129
+msgid "Perfect for Beauty & Wellness Stores"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:133
+msgid "60+ Premium Themes"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:134
+msgid "Regular Updates & Support"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:135
+#: getstarted/skincare_cosmetic_store_about_page.php:381
+msgid "Use on Unlimited Websites"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:136
+#: getstarted/skincare_cosmetic_store_about_page.php:382
+msgid "All Future Themes Included"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:143
+msgid "Welcome to"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:146
+msgid "Free Version"
+msgstr ""
+
+#. translators: %s: Theme version.
+#: getstarted/skincare_cosmetic_store_about_page.php:151
+msgid "Version %s"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:156
+msgid "Quick links"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:159
+msgid "Buy Now"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:163
+#: getstarted/skincare_cosmetic_store_about_page.php:287
+msgid "Live Demo"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:167
+#: getstarted/skincare_cosmetic_store_about_page.php:478
+msgid "Documentation"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:171
+#: inc/section-pro/customizer.php:98
+msgid "Get Bundle"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:181
+msgid "60+"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:182
+msgid "Premium Themes"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:188
+msgid "Limited Time Offer"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:191
+msgid "Get the Complete"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:194
+msgid "Unlock 60+ premium WordPress themes, including eCommerce, Business, Blog, Portfolio and more. Build unlimited websites with one bundle."
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:202
+#: getstarted/skincare_cosmetic_store_about_page.php:446
+msgid "Best Value"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:203
+#: getstarted/skincare_cosmetic_store_about_page.php:448
+msgid "$2340"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:204
+#: getstarted/skincare_cosmetic_store_about_page.php:449
+msgid "$79"
+msgstr ""
+
+#. translators: %d: Discount percentage.
+#: getstarted/skincare_cosmetic_store_about_page.php:205
+#: getstarted/skincare_cosmetic_store_about_page.php:450
+msgid "Flat %d%% OFF on Bundle"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:207
+#: getstarted/skincare_cosmetic_store_about_page.php:452
+msgid "Get the Bundle"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:213
+msgid "Getting started sections"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:245
+msgid "Advanced Homepage Layouts"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:246
+msgid "More Section Blocks & Customization"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:247
+#: getstarted/skincare_cosmetic_store_about_page.php:686
+msgid "Premium Support"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:248
+msgid "Regular Updates"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:252
+#: getstarted/skincare_cosmetic_store_about_page.php:493
+msgid "Theme Setup Support"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:253
+#: getstarted/skincare_cosmetic_store_about_page.php:494
+msgid "Customization Help"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:254
+#: getstarted/skincare_cosmetic_store_about_page.php:495
+msgid "Bug Fixes & Troubleshooting"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:255
+#: getstarted/skincare_cosmetic_store_about_page.php:498
+msgid "General Questions"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:264
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:201
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:262
+msgid "Plugin Installation & Demo Import"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:269
+msgid "The recommended plugins are active and the demo products have been imported."
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:270
+msgid "Install and activate the recommended plugins, including WooCommerce, and import the demo products shown on the homepage, all in one click."
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:281
+msgid "Theme Preview"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:283
+msgid "Theme screenshot"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:291
+msgid "Theme Details"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:300
+msgid "Upgrade to Pro Version"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:302
+msgid "Get more features, advanced sections, premium designs and priority support with the Pro version."
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:309
+msgid "Only $39"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:311
+#: getstarted/skincare_cosmetic_store_about_page.php:727
+msgid "Buy Pro Theme"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:321
+msgid "Need Documentation?"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:323
+msgid "Check our detailed documentation for step-by-step guidance on installation, customization and using the Skincare Cosmetic Store theme."
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:325
+msgid "Go to Documentation"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:330
+#: getstarted/skincare_cosmetic_store_about_page.php:531
+msgid "Tip:"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:330
+msgid "Need help setting up? Start with our documentation or contact our support team."
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:337
+msgid "Need Support?"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:339
+msgid "Facing any issues or have questions? Our dedicated support team is here to help you."
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:346
+msgid "Get Support"
+msgstr ""
+
+#. translators: %s: Coupon code.
+#: getstarted/skincare_cosmetic_store_about_page.php:358
+msgid "Get Extra 20%% OFF Using \"%s\""
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:380
+msgid "60+ Premium WordPress Themes"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:383
+msgid "1 Year of Updates & Premium Support"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:384
+msgid "One-Click Demo Import"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:385
+msgid "WooCommerce Ready Designs"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:386
+msgid "Fully Responsive & SEO Friendly"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:387
+msgid "Detailed Documentation"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:391
+msgid "eCommerce"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:392
+msgid "Beauty & Spa"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:393
+msgid "Business"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:394
+msgid "Blog"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:395
+msgid "Portfolio"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:396
+msgid "Health & Fitness"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:397
+msgid "Restaurant"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:398
+msgid "Education"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:402
+msgid "Purchase the bundle"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:403
+msgid "Download any theme from your account"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:404
+msgid "Install, import the demo and launch"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:414
+msgid "WordPress Theme Bundle"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:415
+msgid "Every Premium Theme. One Simple Price."
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:416
+msgid "The bundle gives you instant access to our entire collection of premium themes, so you can build websites for any niche or client without buying themes one by one."
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:421
+msgid "What's Included"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:430
+msgid "Themes for Every Niche"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:447
+msgid "Complete Theme Bundle"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:456
+msgid "Secure checkout"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:457
+msgid "Instant access"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:471
+msgid "Free Support Forum"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:472
+msgid "Ask questions about the free theme on the official wordpress.org forum."
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:473
+msgid "Open Forum"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:479
+msgid "Step-by-step guides for installation, setup and customization."
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:480
+msgid "Read Docs"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:486
+msgid "Enjoying the theme? A quick review helps us keep improving it."
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:487
+msgid "Leave a Review"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:496
+msgid "Plugin Compatibility"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:497
+msgid "Demo Content Import"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:522
+msgid "What We Can Help With"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:531
+msgid "Include your WordPress version, theme version and a screenshot or link to the issue so we can help faster."
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:539
+msgid "Need Priority Help?"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:540
+msgid "Pro users get fast, one-to-one premium support from our theme experts."
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:542
+msgid "Contact Support"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:546
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:560
+msgid "Features"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:561
+msgid "Free theme"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:562
+msgid "Pro Theme"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:568
+msgid "Responsive Design"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:578
+msgid "Site Logo upload"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:588
+msgid "Footer Copyright text"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:592
+msgid "Remove the copyright text from the Footer."
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:604
+msgid "Global Color"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:614
+msgid "Regular Bug Fixes"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:624
+msgid "Theme Sections"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:627
+msgid "2 Sections"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:628
+msgid "15+ Sections"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:634
+msgid "Custom colors"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:638
+msgid "Choose a color for links, buttons, icons and so on."
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:650
+msgid "Google fonts"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:654
+msgid "You can choose and use over 600 different fonts, for the logo, the menu and the titles."
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:666
+msgid "Enhanced Plugin Integration"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:676
+msgid "Fully SEO Optimized"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:696
+msgid "Extensive Customization"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:706
+msgid "Custom Post Types"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:716
+msgid "High-Level Compatibility with Modern Browsers"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_about_page.php:725
+msgid "Try Out Our Premium Version"
+msgstr ""
+
+#: getstarted/skincare_cosmetic_store_changelog.php:23
+msgid "No changelog available."
+msgstr ""
+
+#: inc/block-patterns.php:33
+msgid "Default header"
+msgstr ""
+
+#: inc/block-patterns.php:38
+msgid "Default footer"
+msgstr ""
+
+#: inc/block-patterns.php:43
+msgid "Home Banner"
+msgstr ""
+
+#: inc/block-patterns.php:47
+msgid "Product Sections"
+msgstr ""
+
+#: inc/block-patterns.php:51
+#: inc/block-patterns.php:109
+msgid "Latest Blog Section"
+msgstr ""
+
+#: inc/block-patterns.php:55
+msgid "Primary Sidebar"
+msgstr ""
+
+#: inc/block-patterns.php:59
+msgid "404 content"
+msgstr ""
+
+#: inc/block-patterns.php:63
+msgid "Post Single Column"
+msgstr ""
+
+#: inc/block-patterns.php:68
+msgid "Post Two Column"
+msgstr ""
+
+#: inc/block-patterns.php:73
+msgid "Post Three Column"
+msgstr ""
+
+#: inc/block-patterns.php:78
+msgid "Post Four Column"
+msgstr ""
+
+#: inc/block-patterns.php:83
+msgid "Feature Post Column"
+msgstr ""
+
+#: inc/block-patterns.php:88
+msgid "Comment Section 1"
+msgstr ""
+
+#: inc/block-patterns.php:92
+msgid "Cover With Post Title"
+msgstr ""
+
+#: inc/block-patterns.php:96
+msgid "Theme Button"
+msgstr ""
+
+#: inc/block-patterns.php:102
+msgid "Footers"
+msgstr ""
+
+#: inc/block-patterns.php:103
+msgid "Headers"
+msgstr ""
+
+#: inc/block-patterns.php:104
+#: patterns/primary-sidebar.php:27
+msgid "Pages"
+msgstr ""
+
+#: inc/block-patterns.php:105
+msgid "Query"
+msgstr ""
+
+#: inc/block-patterns.php:106
+msgid "Sidebars"
+msgstr ""
+
+#: inc/block-patterns.php:107
+msgid "Banner Sections"
+msgstr ""
+
+#: inc/block-patterns.php:108
+msgid "Product Section"
+msgstr ""
+
+#: inc/block-patterns.php:110
+msgid "Comment Sections"
+msgstr ""
+
+#: inc/block-patterns.php:111
+msgid "Theme Button Sections"
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:202
+msgid "Activate Plugins & Import Demo"
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:203
+msgid "Import Demo Products"
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:204
+msgid "Run setup again"
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:227
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:268
+msgid "Visit Site"
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:263
+msgid "Checking Plugins..."
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:264
+msgid "Installing Plugins..."
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:265
+msgid "Activating Plugins..."
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:266
+msgid "Importing Demo Products..."
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:267
+msgid "Finishing Setup..."
+msgstr ""
+
+#. translators: 1: Plugin name, 2: Current position, 3: Total.
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:270
+msgid "Installing %1$s (%2$d of %3$d)"
+msgstr ""
+
+#. translators: 1: Plugin name, 2: Current position, 3: Total.
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:272
+msgid "Activating %1$s (%2$d of %3$d)"
+msgstr ""
+
+#. translators: 1: Product name, 2: Current position, 3: Total.
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:274
+msgid "Importing %1$s (%2$d of %3$d)"
+msgstr ""
+
+#. translators: %s: Plugin name.
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:276
+msgid "%1$s could not be installed."
+msgstr ""
+
+#. translators: %s: Plugin name.
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:278
+msgid "%1$s could not be activated, so the demo products were not imported."
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:279
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:426
+msgid "WooCommerce is not active, so the demo products cannot be imported."
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:280
+msgid "All done! Plugins are active and the demo products have been imported."
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:281
+msgid "All done! Taking you to the Getting Started page..."
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:282
+msgid "Some demo products could not be imported. Click the button to retry; products that were already imported will not be duplicated."
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:283
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:284
+msgid "The server returned an unexpected response. Please try again."
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:285
+msgid "Click the button to retry."
+msgstr ""
+
+#. translators: %s: Plugin name.
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:332
+msgid "Could not find a download for %s."
+msgstr ""
+
+#. translators: %s: Plugin name.
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:364
+msgid "Unable to install %s. Please check the file permissions of the plugins folder."
+msgstr ""
+
+#. translators: %s: Plugin name.
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:372
+msgid "%s was downloaded but could not be found in the plugins folder."
+msgstr ""
+
+#. translators: %s: Plugin name.
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:390
+msgid "%s is not installed."
+msgstr ""
+
+#. translators: %s: Plugin name.
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:399
+msgid "A newer version of %s is required. Please update it from the Plugins screen."
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:433
+msgid "Unknown demo product."
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:452
+msgid "WooCommerce is not active."
+msgstr ""
+
+#. translators: %s: Plugin name.
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:458
+msgid "%s is not active."
+msgstr ""
+
+#. translators: %s: Product name.
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:465
+msgid "The demo product \"%s\" is missing."
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:492
+msgid "Your session has expired. Please reload the page and try again."
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:496
+msgid "You do not have permission to do this."
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:537
+msgid "The plugin installer is not available."
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:559
+msgid "This plugin is not part of the theme setup."
+msgstr ""
+
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:686
+msgid "This product is already being imported. Please wait a moment and try again."
+msgstr ""
+
+#. translators: %s: Product name.
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:696
+msgid "Could not load the existing demo product \"%s\"."
+msgstr ""
+
+#. translators: 1: Product name, 2: Error message.
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:744
+msgid "Could not import \"%1$s\": %2$s"
+msgstr ""
+
+#. translators: %s: Product name.
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:750
+msgid "Could not save \"%s\"."
+msgstr ""
+
+#. translators: %s: File name.
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:827
+msgid "The image %s is missing from the theme."
+msgstr ""
+
+#. translators: %s: File name.
+#: inc/demo-import/class-skincare-cosmetic-store-demo-import.php:834
+msgid "%s is not a supported image."
+msgstr ""
+
+#: inc/demo-import/demo-products.php:25
+msgid "Anti-Blemish Tomato Serum"
+msgstr ""
+
+#: inc/demo-import/demo-products.php:27
+msgid "A lightweight serum with tomato and pink basil extracts that helps reduce blemishes and even out skin tone."
+msgstr ""
+
+#: inc/demo-import/demo-products.php:28
+msgid "Brightening serum for clearer, even-toned skin."
+msgstr ""
+
+#: inc/demo-import/demo-products.php:31
+#: inc/demo-import/demo-products.php:41
+#: inc/demo-import/demo-products.php:51
+#: inc/demo-import/demo-products.php:61
+msgid "Skincare"
+msgstr ""
+
+#: inc/demo-import/demo-products.php:31
+msgid "Serums"
+msgstr ""
+
+#: inc/demo-import/demo-products.php:35
+msgid "Sensitive After Shave Balm"
+msgstr ""
+
+#: inc/demo-import/demo-products.php:37
+msgid "An alcohol-free balm that soothes and hydrates sensitive skin after shaving."
+msgstr ""
+
+#: inc/demo-import/demo-products.php:38
+msgid "Calming care for sensitive skin."
+msgstr ""
+
+#: inc/demo-import/demo-products.php:41
+msgid "Men's Care"
+msgstr ""
+
+#: inc/demo-import/demo-products.php:45
+msgid "Soothing Repair Cream"
+msgstr ""
+
+#: inc/demo-import/demo-products.php:47
+msgid "A rich, fragrance-free cream that comforts dry and irritated skin and supports its natural barrier."
+msgstr ""
+
+#: inc/demo-import/demo-products.php:48
+msgid "Intensive relief for dry, reactive skin."
+msgstr ""
+
+#: inc/demo-import/demo-products.php:51
+msgid "Creams"
+msgstr ""
+
+#: inc/demo-import/demo-products.php:55
+msgid "Kids Moisturising Cream"
+msgstr ""
+
+#: inc/demo-import/demo-products.php:57
+msgid "A gentle everyday moisturiser made for delicate skin, keeping it soft and hydrated all day."
+msgstr ""
+
+#: inc/demo-import/demo-products.php:58
+msgid "Gentle daily hydration for delicate skin."
+msgstr ""
+
+#: inc/demo-import/demo-products.php:61
+msgid "Moisturisers"
+msgstr ""
+
+#: inc/section-pro/customizer.php:73
+msgid "Skincare Pro"
+msgstr ""
+
+#: inc/section-pro/customizer.php:74
+msgid "Upgrade Pro"
+msgstr ""
+
+#: inc/section-pro/customizer.php:81
+msgid "Lite Documentation"
+msgstr ""
+
+#: inc/section-pro/customizer.php:82
+msgid "Instruction"
+msgstr ""
+
+#: inc/section-pro/customizer.php:89
+msgid "Pro Theme Demo"
+msgstr ""
+
+#: inc/section-pro/customizer.php:90
+msgid "Live Preview"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/tgm.php:10
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/tgm/tgm.php:16
+msgid "Currency Switcher for WooCommerce"
+msgstr ""
+
+#: inc/tgm/tgm.php:22
+msgid "Translate WordPress with GTranslate"
+msgstr ""
+
+#: patterns/comment-section-1.php
+msgctxt "Pattern title"
+msgid "Comment Section 1"
+msgstr ""
+
+#: patterns/cover-with-archive-title.php
+#: patterns/cover-with-index-title.php
+msgctxt "Pattern title"
+msgid "Cover With archive Title"
+msgstr ""
+
+#: patterns/cover-with-index-title.php:12
+msgid "BLOG"
+msgstr ""
+
+#: patterns/cover-with-post-title.php
+msgctxt "Pattern title"
+msgid "Cover With Post Title"
+msgstr ""
+
+#: patterns/feature-post-column.php
+msgctxt "Pattern title"
+msgid "Feature Post Column"
+msgstr ""
+
+#: patterns/feature-post-column.php:46
+msgid "Popular News"
+msgstr ""
+
+#: patterns/feature-post-column.php:101
+msgid ""
+"Life Is Either A Daring Adventure Or Nothing At\n"
+"\t\t\t\t\t\t\tAll"
+msgstr ""
+
+#: patterns/feature-post-column.php:151
+msgid "Recent News"
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer Default"
+msgstr ""
+
+#: patterns/footer-default.php:14
+#: patterns/footer-default.php:40
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer-default.php:18
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+msgstr ""
+
+#: patterns/footer-default.php:36
+msgid "Useful Links"
+msgstr ""
+
+#: patterns/footer-default.php:44
+msgid "Our Team"
+msgstr ""
+
+#: patterns/footer-default.php:48
+msgid "Projects"
+msgstr ""
+
+#: patterns/footer-default.php:56
+msgid "Blogs"
+msgstr ""
+
+#: patterns/footer-default.php:60
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer-default.php:66
+#: patterns/product-sidebar.php:21
+msgid "Categories"
+msgstr ""
+
+#: patterns/footer-default.php:70
+msgid "Category 1"
+msgstr ""
+
+#: patterns/footer-default.php:74
+msgid "Category 2"
+msgstr ""
+
+#: patterns/footer-default.php:78
+msgid "Category 3"
+msgstr ""
+
+#: patterns/footer-default.php:84
+msgid "Contact Info"
+msgstr ""
+
+#: patterns/footer-default.php:88
+msgid "info@example.com"
+msgstr ""
+
+#: patterns/footer-default.php:92
+msgid "+1112233445566"
+msgstr ""
+
+#: patterns/footer-default.php:96
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed"
+msgstr ""
+
+#: patterns/footer-default.php:104
+msgid "WordPress Theme"
+msgstr ""
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header Default"
+msgstr ""
+
+#: patterns/header-default.php:27
+msgid "Save up to 20% on all products with"
+msgstr ""
+
+#: patterns/header-default.php:27
+msgid "\"GET20OFF\""
+msgstr ""
+
+#: patterns/header-default.php:27
+msgid "code"
+msgstr ""
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "Hidden 404"
+msgstr ""
+
+#: patterns/hidden-404.php:13
+msgid "Page Not Found"
+msgstr ""
+
+#: patterns/hidden-404.php:17
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/home-banner.php
+msgctxt "Pattern title"
+msgid "Home Banner"
+msgstr ""
+
+#: patterns/home-banner.php:17
+msgid "Discover Your Routine"
+msgstr ""
+
+#: patterns/home-banner.php:21
+msgid "Reveal Your Natural Glow"
+msgstr ""
+
+#: patterns/home-banner.php:25
+msgid "Clean, effective skincare made with skin-loving ingredients for radiant, healthy skin. Loved by thousands—your everyday essentials for glowing skin."
+msgstr ""
+
+#: patterns/home-banner.php:30
+#: patterns/home-banner.php:62
+#: patterns/home-banner.php:94
+msgid "Shop Now"
+msgstr ""
+
+#: patterns/home-banner.php:49
+msgid "Glow With Confidence"
+msgstr ""
+
+#: patterns/home-banner.php:53
+msgid "Enhance Your Everyday Radiance"
+msgstr ""
+
+#: patterns/home-banner.php:57
+msgid "Clean, nourishing skincare made with skin-loving ingredients for soft, healthy skin that feels fresh and looks naturally bright."
+msgstr ""
+
+#: patterns/home-banner.php:81
+msgid "Care For Your Skin"
+msgstr ""
+
+#: patterns/home-banner.php:85
+msgid "Bring Out Your Healthy Shine"
+msgstr ""
+
+#: patterns/home-banner.php:89
+msgid "Gentle, effective skincare crafted with kind ingredients to support smooth, balanced skin and a naturally beautiful daily glow."
+msgstr ""
+
+#: patterns/latest-blog-section.php
+msgctxt "Pattern title"
+msgid "Latest Blog Section"
+msgstr ""
+
+#: patterns/latest-blog-section.php:11
+msgid "NEWS AND BLOGS"
+msgstr ""
+
+#: patterns/latest-blog-section.php:15
+msgid "Latest News directly from the blog"
+msgstr ""
+
+#: patterns/post-content-1.php
+msgctxt "Pattern title"
+msgid "Post Content 1"
+msgstr ""
+
+#: patterns/post-listing-four-column.php
+msgctxt "Pattern title"
+msgid "Post Listing Four Column"
+msgstr ""
+
+#: patterns/post-listing-single-column.php
+msgctxt "Pattern title"
+msgid "Post Listing Single Column"
+msgstr ""
+
+#: patterns/post-listing-three-column.php
+msgctxt "Pattern title"
+msgid "Post Listing Three Column"
+msgstr ""
+
+#: patterns/post-listing-two-column.php
+msgctxt "Pattern title"
+msgid "Post Listing Two Column"
+msgstr ""
+
+#: patterns/primary-sidebar.php
+msgctxt "Pattern title"
+msgid "Primary Sidebar"
+msgstr ""
+
+#: patterns/primary-sidebar.php:11
+msgid "Search"
+msgstr ""
+
+#: patterns/primary-sidebar.php:19
+msgid "Archive"
+msgstr ""
+
+#: patterns/primary-sidebar.php:35
+msgid "Tags"
+msgstr ""
+
+#: patterns/primary-sidebar.php:43
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/primary-sidebar.php:51
+msgid "Social Media"
+msgstr ""
+
+#: patterns/product-section.php
+msgctxt "Pattern title"
+msgid "Product Section"
+msgstr ""
+
+#: patterns/product-section.php:18
+#: patterns/product-section.php:51
+msgid "shop"
+msgstr ""
+
+#: patterns/product-section.php:22
+#: patterns/product-section.php:55
+msgid "Hits of The Week"
+msgstr ""
+
+#: patterns/product-section.php:36
+#: patterns/product-section.php:76
+#: patterns/product-section.php:96
+#: patterns/product-section.php:116
+#: patterns/product-section.php:136
+msgid "order now"
+msgstr ""
+
+#: patterns/product-section.php:67
+#: patterns/product-section.php:87
+#: patterns/product-section.php:107
+#: patterns/product-section.php:127
+msgid "Revive Night Repair Cream"
+msgstr ""
+
+#: patterns/product-section.php:71
+#: patterns/product-section.php:91
+#: patterns/product-section.php:111
+#: patterns/product-section.php:131
+msgid "$31.00"
+msgstr ""
+
+#: patterns/product-sidebar.php
+msgctxt "Pattern title"
+msgid "Product Sidebar"
+msgstr ""
+
+#: patterns/product-sidebar.php:11
+msgid "Filter by price"
+msgstr ""
+
+#: patterns/product-sidebar.php:29
+msgid "Active filters"
+msgstr ""
+
+#: patterns/product-sidebar.php:39
+msgid "Filter by stock status"
+msgstr ""
+
+#: patterns/product-sidebar.php:49
+msgid "Filter by attribute"
+msgstr ""
+
+#: patterns/product-sidebar.php:59
+msgid "Filter by rating"
+msgstr ""
+
+#: patterns/shop-title-cover.php
+msgctxt "Pattern title"
+msgid "Shop Title Cover"
+msgstr ""
+
+#: patterns/shop-title-cover.php:11
+msgid "SHOP"
+msgstr ""
+
+#: patterns/theme-button.php
+msgctxt "Pattern title"
+msgid "Theme Button"
+msgstr ""
+
+#: patterns/theme-button.php:10
+msgid "READ MORE"
+msgstr ""
+
+#: styles/golden-yellow .json
+msgctxt "Style variation name"
+msgid "Golden Yellow"
+msgstr ""
+
+#: styles/golden-yellow .json
+#: styles/green.json
+#: styles/greenish-teal.json
+#: styles/light-green.json
+#: styles/orange.json
+#: styles/red.json
+#: styles/violet-purple.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/golden-yellow .json
+#: styles/green.json
+#: styles/greenish-teal.json
+#: styles/light-green.json
+#: styles/orange.json
+#: styles/red.json
+#: styles/violet-purple.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/golden-yellow .json
+#: styles/green.json
+#: styles/greenish-teal.json
+#: styles/light-green.json
+#: styles/orange.json
+#: styles/red.json
+#: styles/violet-purple.json
+#: theme.json
+msgctxt "Color name"
+msgid "third-color"
+msgstr ""
+
+#: styles/golden-yellow .json
+#: styles/green.json
+#: styles/greenish-teal.json
+#: styles/light-green.json
+#: styles/orange.json
+#: styles/red.json
+#: styles/violet-purple.json
+#: theme.json
+msgctxt "Color name"
+msgid "fourth-color"
+msgstr ""
+
+#: styles/golden-yellow .json
+#: styles/green.json
+#: styles/greenish-teal.json
+#: styles/light-green.json
+#: styles/orange.json
+#: styles/red.json
+#: styles/violet-purple.json
+#: theme.json
+msgctxt "Color name"
+msgid "fifth-color"
+msgstr ""
+
+#: styles/golden-yellow .json
+#: styles/green.json
+#: styles/greenish-teal.json
+#: styles/light-green.json
+#: styles/orange.json
+#: styles/red.json
+#: styles/violet-purple.json
+#: theme.json
+msgctxt "Color name"
+msgid "sixth-color"
+msgstr ""
+
+#: styles/golden-yellow .json
+#: styles/green.json
+#: styles/greenish-teal.json
+#: styles/light-green.json
+#: styles/orange.json
+#: styles/red.json
+#: styles/violet-purple.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/golden-yellow .json
+#: styles/green.json
+#: styles/greenish-teal.json
+#: styles/light-green.json
+#: styles/orange.json
+#: styles/red.json
+#: styles/violet-purple.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr ""
+
+#: styles/greenish-teal.json
+msgctxt "Style variation name"
+msgid "Greenish Teal"
+msgstr ""
+
+#: styles/light-green.json
+#: styles/orange.json
+msgctxt "Style variation name"
+msgid "Orange"
+msgstr ""
+
+#: styles/red.json
+msgctxt "Style variation name"
+msgid "Red"
+msgstr ""
+
+#: styles/violet-purple.json
+msgctxt "Style variation name"
+msgid "Violet Purple"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (No Title / Feature Image)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical background to secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary background to Secondary dark background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary background dark to Secondary  background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background left"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background right"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal tertiary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "7"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Quicksand"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Rum Raisin"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Upper Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Content Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large (Recent Post Title)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge (Display)"
+msgstr ""

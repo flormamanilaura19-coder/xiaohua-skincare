@@ -1,0 +1,42 @@
+li#accordion-section-skincare_cosmetic_store_go_pro,
+li#accordion-section-skincare_cosmetic_store_doc   {
+    display: block !important;
+}
+#accordion-section-skincare_cosmetic_store_go_pro h3.accordion-section-title,
+#accordion-section-skincare_cosmetic_store_doc h3.accordion-section-title{
+    background: #91766D !important;
+    color: #fff !important;
+    font-size: 15px;
+    padding: 15px 15px 15px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#accordion-section-skincare_cosmetic_store_go_pro h3.accordion-section-title a:focus,
+#accordion-section-skincare_cosmetic_store_doc h3.accordion-section-title a:focus {
+  box-shadow: unset !important;
+}
+a.button.button-secondary.alignright {
+    color: #91766D !important;
+    background: #FFF !important;
+    font-size: 14px;
+    margin: -5px !important;
+    border-radius: 0 !important;
+    border: none !important;
+    font-size: 14px;
+}
+li#accordion-section-skincare_cosmetic_store_go_pro,
+li#accordion-section-skincare_cosmetic_store_doc{
+    display: block !important;
+}
+#accordion-section-skincare_cosmetic_store_go_pro .accordion-section-title:after,
+#accordion-section-skincare_cosmetic_store_doc .accordion-section-title:after{
+  display: none;
+}
+.customize-pane-parent{
+  overflow-x: hidden !important;
+}
+.accordion-section-title button.accordion-trigger{
+  height: auto !important;
+}
+
